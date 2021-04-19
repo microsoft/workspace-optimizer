@@ -1,0 +1,10 @@
+ipython
+ipywidgets
+scipy
+pandas
+numpy
+ipywidgets
+ipyfilechooser
+pulp
+ipysheet
+geopy
