@@ -23,6 +23,7 @@ Before you can use the tool, confirm the following required prerequisites are me
 * **Anaconda** - Use to install and manage the following required versions of Python and Jupyter Notebook. See [Anaconda](https://www.anaconda.com/products/individual#windows) to install it. During the installation, select to **Register Anaconda as your default for Python**.
 * **Python** - Latest available or version 3.3 or later is required.
 * **Jupyter Notebook** - An open-source application that's required to run the Workspace planning tool.
+* **Workplace Analytics** - Required to create the interactions.csv file
 
 ## File prep
 
@@ -45,7 +46,7 @@ The tool combines the data in these files to generate a table that shows where t
 
 See [Workspace planning tool](https://docs.microsoft.com/workplace-analytics/azure-templates/wsplan-intro) for detailed instructions on how to install and plan a workspace.
 
-## Contributing
+# Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -59,7 +60,21 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+# Support
+
+## How to file issues and get help  
+
+This project uses GitHub Issues to track bugs, feature requests, and questions. Please search the existing 
+issues before filing new issues to avoid duplicates. For new issues, file your bug or 
+feature request as a new Issue.
+
+For help and questions about using this project, please submit your questions via Github Issues.
+
+## Microsoft Support Policy  
+
+Support for this project is limited to the resources listed above.
+
+# Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
