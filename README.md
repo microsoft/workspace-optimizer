@@ -44,7 +44,7 @@ You also need to save the following input (.csv) files to your master folder. Th
 
 The tool combines the data in these files to generate a table that shows where to seat people in the specified floor plan.
 
-See [Workspace planning tool](https://docs.microsoft.com/workplace-analytics/azure-templates/wsplan-intro) for detailed instructions on how to install and plan a workspace.
+See [Workspace planning tool](https://docs.microsoft.com/workplace-analytics/use/wsplan) for detailed instructions on how to install and plan a workspace.
 
 # Contributing
 
