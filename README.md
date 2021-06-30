@@ -1,6 +1,6 @@
-# Workspace Planning Tool
+# Workspace Collaboration Optimizer
 
-If your team or company is moving to a new worksite or you need to reorganize an existing workspace, this open-source tool can help. Workspace planning can help you identify and seat teams together in a workspace that maximizes and fosters cross-team productivity and collaboration. You can use this tool to generate floor plans quickly and objectively, in a data-driven way that optimizes employee collaboration by seating teams together.
+If your team or company is moving to a new worksite or you need to reorganize an existing workspace, this open-source tool can help. Workspace planning can help you identify and seat teams together in a workspace that maximizes and fosters cross-team productivity and collaboration. You can use this tool to generate seating plans quickly and objectively, in a data-driven way that optimizes employee collaboration by seating teams together.
 
 The algorithm for this tool accounts for the following rules and constraints:
 
@@ -27,7 +27,7 @@ Before you can use the tool, confirm the following required prerequisites are me
 
 ## File prep
 
-Save the following files to a **master folder**, which are located in the [Workspace Planning Tool repository](https://github.com/microsoft/Workspace-Planning-Tool). If you’re new to GitHub, you’ll need to register and sign in before you can access this repository. See [GitHub Getting started](https://docs.github.com/github/getting-started-with-github) for details.  You'll use this master folder to create a copy of for each workspace project.
+Save the following files to a **master folder**, which are located in the [Workspace Collaboration Optimizer repository](https://github.com/microsoft/workspaces-optimizer). If you’re new to GitHub, you’ll need to register and sign in before you can access this repository. See [GitHub Getting started](https://docs.github.com/github/getting-started-with-github) for details.  You'll use this master folder to create a copy of for each workspace project.
 
 * **Distance Helper notebook** - Creates a distance file between specified zones or neighborhoods. This uses the following input files to help you define the walking distances in a unit you specify, such as estimated minutes or meters between floors or buildings.
 * **File Validations notebook** - Validates all the input files, including the distance file that's created from the Distance helper notebook.
