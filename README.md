@@ -64,11 +64,10 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## How to file issues and get help  
 
-This project uses GitHub Issues to track bugs, feature requests, and questions. Please search the existing 
-issues before filing new issues to avoid duplicates. For new issues, file your bug or 
-feature request as a new Issue.
+This project uses GitHub Issues to track bugs, feature requests, and questions. Please check the documentation and search the existing 
+issues before filing new issues to avoid duplicates. 
 
-For help and questions about using this project, please submit your questions via Github Issues.
+For bugs, feature requests, suggestions and questions about this project, please submit them via Github Issues. For all other inquiries [email us](mailto:ws-collab-optimizer@microsoft.com). We will do our best to address your questions within a week timeframe. We will only respond to questions related to the tool itself. For all Anaconda/Jupyter Notebooks related questions please refer to the appropriate software documentation. 
 
 ## Microsoft Support Policy  
 
